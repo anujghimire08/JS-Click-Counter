@@ -23,7 +23,8 @@ This project is built purely with foundational web technologies: HTML,CSS,JS & D
 
 ## 🌐 Live Preview
 Click below to see the project in action:  
-![Live Preview]()
+[Live Preview](https://anujghimire08.github.io/JS-Click-Counter/)
+
 
 ---
 
