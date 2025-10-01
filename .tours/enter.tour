@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Enter",
+  "steps": [
+    {
+      "file": "index.html",
+      "description": "Counter Body include all the elements inside it",
+      "line": 11
+    }
+  ]
+}

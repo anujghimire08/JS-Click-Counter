@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="3ypbtFIipVDJInAF4KIY" name="Page-1">
+        <mxGraphModel dx="511" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontFamily=Verdana;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="40" width="330" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="180" y="185" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font&gt;Js Click Counter&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=27;labelPosition=center;verticalLabelPosition=middle;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="127.5" y="60" width="245" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Click" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="200" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="110" width="260" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="320" y="125" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
