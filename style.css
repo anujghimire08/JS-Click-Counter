@@ -13,7 +13,7 @@ body {
 }
 .container {
   background-color: white;
-  width: 30%;
+  width: 100%;
   max-width: 400px;
   min-width: 250px;
   height: 40%;
@@ -38,7 +38,7 @@ body {
 }
 .container input {
   max-width: 350px;
-  width: 70%;
+  width: 100%;
   padding: 15px 0px;
   outline: none;
   border: 1px solid red;
